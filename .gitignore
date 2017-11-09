@@ -4,6 +4,7 @@
 # Unignore all with specific extensions
 !*.cpp
 !*.gitignore
+!*.java
 
 # Unignore all dirs
 !*/
