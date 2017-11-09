@@ -5,6 +5,7 @@
 !*.cpp
 !*.gitignore
 !*.java
+!*.py
 
 # Unignore all dirs
 !*/
