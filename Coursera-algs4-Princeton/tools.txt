@@ -1,0 +1,20 @@
+compile:
+javac HelloWorld.java
+javac-algs4 TestAlgs4.java
+
+Execute:
+java HelloWorld
+java-algs4 edu.princeton.cs.algs4.StdDraw
+
+Static Code Analysis Tools:
+findbugs-algs4 *.class
+findbugs-coursera HelloWorld.class
+// http://findbugs.sourceforge.net/bugDescriptions.html
+
+pmd-algs4 .
+pmd-coursera .
+// https://pmd.github.io/pmd-5.8.1/pmd-java/rules/index.html
+
+checkstyle-algs4 *.java
+checkstyle-coursera *.java
+// http://checkstyle.sourceforge.net/checks.html

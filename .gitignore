@@ -6,6 +6,9 @@
 !*.gitignore
 !*.java
 !*.py
+!*.xml
+!*.txt
+!*.zip
 
 # Unignore all dirs
 !*/
