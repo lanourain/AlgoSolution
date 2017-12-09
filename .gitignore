@@ -9,6 +9,7 @@
 !*.xml
 !*.txt
 !*.zip
+!*.pdf
 
 # Unignore all dirs
 !*/
