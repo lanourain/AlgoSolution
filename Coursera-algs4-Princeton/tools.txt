@@ -1,6 +1,6 @@
 compile:
-javac HelloWorld.java
-javac-algs4 TestAlgs4.java
+javac *.java
+javac-algs4 *.java
 
 Execute:
 java HelloWorld
